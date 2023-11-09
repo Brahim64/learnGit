@@ -1,0 +1,22 @@
+{
+  "name": "bohmodule",
+  "version": "1.0.0",
+  "description": "creation and publish of my first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Brahim64/learnGit.git"
+  },
+  "keywords": [
+    "affiche"
+  ],
+  "author": "bahebrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brahim64/learnGit/issues"
+  },
+  "homepage": "https://github.com/Brahim64/learnGit#readme"
+}
